@@ -8,6 +8,8 @@ I have not provided any test code, but you can base yours on test code from
 other exercises. Your tests must check the correctness of the result of running
 the function and run automatically when you commit through a GitHub action.
 
+I used code from the parallel lecture slides, I also looked at https://nodejs.org/api/child_process.html to understand the code from the slides more.
+
 ## Runtime Analysis
 
 What is the span of the parallel program, in terms of worst-case $\Theta$? Hint:
